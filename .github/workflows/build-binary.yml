@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 env:
-  CADDY_VERSION: v2.11.7
+  CADDY_VERSION: v2.11.9
 
 jobs:
   build:
